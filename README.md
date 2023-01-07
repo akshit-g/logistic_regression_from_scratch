@@ -1,4 +1,6 @@
-# logistic_regression_from_scratch
-Logistic Regression from scratch in Python
+# Logistic Regression from Scratch
 
-Jupyter Notebook to accompany the Logistic Regression from scratch in Python blog post.
+Logistic Regression from scratch in Python using Jupyter Notebook.
+
+This model is based on the blog post by @beckernick.
+This project has been forked from https://github.com/beckernick/logistic_regression_from_scratch
